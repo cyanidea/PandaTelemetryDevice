@@ -5,7 +5,8 @@ Android App
 ------------------------------------------------------------------------------------------------------------------------------------
 Android application is designed using mit app inventor service.
 The "aia" file can be imported into any account created via "appinventor.mit.edu".
-PandaTelemetry.apk is the installation file of the application, it is safe to install. (The debug app is designed for testing only.)
+PandaTelemetry.apk is the installation file of the application, it is safe to install. 
+(The debug app is designed for testing only.)
 
 Circuit Desing - PCB
 ------------------------------------------------------------------------------------------------------------------------------------
