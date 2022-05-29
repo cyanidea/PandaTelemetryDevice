@@ -7,3 +7,7 @@ Android application is designed using mit app inventor service.
 The "aia" file can be imported into any account created via "appinventor.mit.edu".
 PandaTelemetry.apk is the installation file of the application, it is safe to install. (The debug app is designed for testing only.)
 
+Circuit Desing - PCB
+------------------------------------------------------------------------------------------------------------------------------------
+The circuit design of the device was designed using the Proteus Design Suite platform. 
+The .psdsrj files for the lower and upper circuit contain the PCB design.
