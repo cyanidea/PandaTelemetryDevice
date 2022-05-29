@@ -21,3 +21,4 @@ The .sldprt files contain the design. (.dxf was used in laser cutting.)
 Software Desing
 ------------------------------------------------------------------------------------------------------------------------------------
 The programming of the device was completed in the Arduino Integrated Development Environment, using the C language.
+The .ino file contains the main program code, also the libraries used are added.
