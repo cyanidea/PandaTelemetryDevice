@@ -1,6 +1,8 @@
 # PandaTelemetryDevice
 This product was developed within the scope of the ELE 401-ELE 402 graduation project.
 
+https://www.youtube.com/watch?v=I_dvg3yDnHE
+
 Android App
 ------------------------------------------------------------------------------------------------------------------------------------
 Android application is designed using mit app inventor service.
